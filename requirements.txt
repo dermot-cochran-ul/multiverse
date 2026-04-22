@@ -3,3 +3,6 @@ hypothesis
 icontract
 textx
 typing
+pytest
+fastapi
+uvicorn
