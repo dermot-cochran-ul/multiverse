@@ -1,0 +1,1 @@
+"""FastAPI stateless JSON API."""
